@@ -1,0 +1,11 @@
+#header {
+    background-color:black;
+    width: 100%;
+}
+
+.headerLinks {
+    color:white;
+    text-align:right;
+    font-family:Helvetica, Arial;
+    max-width: 600px;
+}
